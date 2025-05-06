@@ -8,6 +8,8 @@ https://github.com/Axelrod-Python/Axelrod
 
 ## Description of Files
 
+The only files required to run a tournament with this strategy are the FinalTournament.ipynb file and optionally the model_base.csv file that it references for model creation. The second one is optional as FinalTournament file imports the model_base.csv file from this github repository. The rest of the files show the steps made to create generate a data file, transform it, and test models. 
+
 ### Sample Tournament
 
 #### SampleTournament.ipynb
