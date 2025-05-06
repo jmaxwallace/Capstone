@@ -6,6 +6,9 @@ The goal is to create a machine learning model to compete against traditional st
 This repository uses the Axelrod Python package to run the prisoner's dilemma tournament and track results, this can be found here:
 https://github.com/Axelrod-Python/Axelrod
 
+## [Tableau Story With Summarize Results](https://public.tableau.com/app/profile/james.wallace3109/viz/CapstoneStory_17465611131830/Story1?publish=yes)
+
+
 ## Description of Files
 
 The only files required to run a tournament with this strategy are the FinalTournament.ipynb file and optionally the model_base.csv file that it references for model creation. The second one is optional as FinalTournament file imports the model_base.csv file from this github repository. The rest of the files show the steps made to create generate a data file, transform it, and test models. 
