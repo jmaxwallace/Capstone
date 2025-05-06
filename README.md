@@ -9,6 +9,16 @@ https://github.com/Axelrod-Python/Axelrod
 
 ## [Tableau Story With Summarized Results](https://public.tableau.com/app/profile/james.wallace3109/viz/CapstoneStory_17465611131830/Story1?publish=yes)
 
+### Tableau Radar Plots (Not Supported by Tableau Public)
+
+#### Decision Rates of MyStrategy
+![image](https://github.com/user-attachments/assets/9b121e1f-e996-483a-b9d7-2998b333471a)
+
+#### Outcome Rates of MyStrategy
+![image](https://github.com/user-attachments/assets/a6c2295d-35e7-4b1c-ac2c-1a7d414dfea7)
+
+Rates of other strategies can be found in the CapstoneStory.twb file
+
 ## Additional Visualizations
 
 ### Median Scores of each strategy across 100 tournaments
@@ -77,6 +87,9 @@ summary.csv takes the summarized results from 100 iterations of this tournament 
 
 Takes models from LookbackModels.ipynb and uses them to predict future moves from opposing strategies and final scores in a strategy. Initial plan was to physically add this strategy to a fork of the Axelrod python package, but I discovered that I can simply create the strategy in this file and add it to a group of strategies in the package. 
 
+### CapstoneStory.twb
+
+Tableau workbook for public tableau visualizations, needed for radar plots along with LaDataViz extension.
 
 ### FinalReport.docx
 
