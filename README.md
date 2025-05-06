@@ -4,8 +4,7 @@ My Spring 2025 Data Analytics Capstone repository
 
 The goal is to create a machine learning model to compete against traditional strategies in an iterated prisoner's dilemma tournament.
 
-This repository uses the Axelrod Python package to run the prisoner's dilemma tournament and track results, this can be found here:
-https://github.com/Axelrod-Python/Axelrod
+This repository uses the [Axelrod](https://github.com/Axelrod-Python/Axelrod) Python package to run the prisoner's dilemma tournament and track results
 
 ## [Tableau Story With Summarized Results](https://public.tableau.com/app/profile/james.wallace3109/viz/CapstoneStory_17465611131830/Story1?publish=yes)
 
