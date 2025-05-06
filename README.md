@@ -6,7 +6,18 @@ The goal is to create a machine learning model to compete against traditional st
 This repository uses the Axelrod Python package to run the prisoner's dilemma tournament and track results, this can be found here:
 https://github.com/Axelrod-Python/Axelrod
 
-## [Tableau Story With Summarize Results](https://public.tableau.com/app/profile/james.wallace3109/viz/CapstoneStory_17465611131830/Story1?publish=yes)
+## [Tableau Story With Summarized Results](https://public.tableau.com/app/profile/james.wallace3109/viz/CapstoneStory_17465611131830/Story1?publish=yes)
+
+## Additional Visualizations
+
+### Median Scores of each strategy across 100 tournaments
+![image](https://github.com/user-attachments/assets/816e55ff-4399-472e-9928-d38d61872791)
+
+### Wins in each tournament over 100 tournaments
+![image](https://github.com/user-attachments/assets/7a35f74d-4413-48d2-b11b-15a552cc9a93)
+
+### Payoff Matrix
+![image](https://github.com/user-attachments/assets/18153b04-ce9c-4331-aeac-b495ea1c5461)
 
 
 ## Description of Files
